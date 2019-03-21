@@ -7,7 +7,7 @@
 
 In this assignment, we were tasked with creating a Liri Bot App.  The Liri Bot App would be responsible for taking in specific arguments from the terminal command line,interrupting those arguments, and then printing a corresponding response in the console.  In this instance, the Liri Bot App will be capable of generating movie, concert, song and automated text file info based on the users choices in the terminal. 
 
-*Functionality Note* 
+*Functionality Note*:
 The choices will be generated using the Inquirer app upon initiating the Liri.JS file using node. 
 
 **APPS USED IN THIS PROJECT**
